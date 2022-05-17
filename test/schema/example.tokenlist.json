@@ -20,10 +20,10 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
+      "address": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05",
+      "symbol": "SFL",
+      "name": "SFL",
+      "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
